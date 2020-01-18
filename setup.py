@@ -7,7 +7,7 @@ setup(
     name='Neural description generator',
     version='0.1',
     description='The model generates product description based on image and other attributes',
-    classifiers=['Programming Language :: Python :: 3.6.6'],
+    classifiers=['Programming Language :: Python :: 3.7'],
     url='https://github.com/Ayatafoy/neural-description-generator.git',
     author='Aleksey Romanov, Artur Nizamutdinov',
     author_email='aromanov@griddynamics.com, nizamutdin.art@gmail.com',
