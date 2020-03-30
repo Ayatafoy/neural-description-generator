@@ -10,9 +10,6 @@ jedi==0.15.2
 joblib==0.14.1
 jupyter-client==5.3.4
 jupyter-core==4.6.1
-mkl-fft==1.0.15
-mkl-random==1.1.0
-mkl-service==2.3.0
 munch==2.5.0
 numpy==1.18.1
 opencv-python==4.1.2.30
